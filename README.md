@@ -1,9 +1,12 @@
-[Segurança da Informação na graduação: Proposta de criação de disciplina optativa sobre Análise de Malware](https://github.com/rafaveira3/writing/blob/master/disciplina-analise-malware(PT-BR).pdf)
+## [Segurança da Informação na graduação: Proposta de criação de disciplina optativa sobre Análise de Malware](https://github.com/rafaveira3/writing/blob/master/disciplina-analise-malware(PT-BR).pdf)
+
 Dentro da área da Segurança da Informação, um malware, abreviação do inglês para malicious software (programa malicioso), é qualquer programa que realiza atividades que causam algum dano ao usuário, ao computador, ou a rede. Recentemente, estatísticas apontam que o Brasil tem tido um papel importante na produção de malwares para o mundo. De igual modo, o número de brasileiros vítimas destes códigos maliciosos tem crescido consideravelmente. Uma possibilidade para reverter este quadro seria compreender a importância de uma Análise de Malware e suas principais atividades/procedimentos. O objetivo desta pesquisa é discutir a necessidade e formulação de uma disciplina optativa sobre Análise de Malware no contexto de um Curso de Ciência da Computação no Brasil, tendo como estudo de caso o Departamento de Ciência da Computação da UFRJ. Mediante toda proposta de referências, conteúdo programático, cronograma, e critérios de avaliação, foi feita uma avaliação para determinar o quão viável é inserir tal disciplina eletiva na grade curricular do curso de Bacharel de Ciência da Computação do DCC-UFRJ. Conclui-se que é possível a inserção de uma disciplina eletiva sobre Análise de Malware dentro da gradução a curto ou médio prazo a fim contribuir para a formação de profissionais na área de conhecimento.
 
-[Segurança em Códigos QR](https://github.com/rafaveira3/writing/blob/master/seguranca-codigos-qr(PT-BR).pdf)
+## [Segurança em Códigos QR](https://github.com/rafaveira3/writing/blob/master/seguranca-codigos-qr(PT-BR).pdf)
+
 Atualmente, os Códigos QR estão ganhando uma popularidade muito grande pela sua praticidade e devido ao mercado de dispositivos móveis, aparelhos capazes de lerem os códigos, estar crescendo muito! Contudo, até que ponto é seguro escanear esses códigos? Será que existe um Código QR que possa executar códigos maliciosos? Ou mesmo um que, ao ser lido, roube todas as minhas informações pessoais? Este artigo visa responder a todas essas perguntas e a entender minuciosamente os cuidados que devem ser tomados ao ler códigos QR. No final, apresentaremos uma cartilha com dicas de segurança para tecnologia móvel onde focaremos em códigos QR.
 
-[Segurança em Métodos HTTP](https://github.com/rafaveira3/writing/blob/master/seguranca-metodos-http(PT-BR).pdf)
+## [Segurança em Métodos HTTP](https://github.com/rafaveira3/writing/blob/master/seguranca-metodos-http(PT-BR).pdf)
+
 Este estudo tem a finalidade de mostrar algumas fragilidades que o protocolo HTTP possui que podem comprometer completamente alguns pilares da Segurança da Informação como por exemplo a Disponibilidade, Integridade, Confidencialidade, e Autenticidade.
 
