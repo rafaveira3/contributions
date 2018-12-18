@@ -1,26 +1,33 @@
-# Writing & Presentations
- > Documents and Talks I have done so far.
+# Writing & Presentations 📚
 
-## Writing
+#### HuskyCI: Encontrando vulnerabilidades de código na Globo.com antes do deploy (GTS32 SP - 2018)
 
-#### Segurança da Informação na graduação: Proposta de inclusão de disciplina optativa sobre Análise de Malware 
+Ferramenta open source que auxilia na identificação de vulnerabilidades de código e, consequentemente, na redução de falhas de segurança geradas a cada commit realizado. 
+
+* Slides da apresentação em [PDF (PT-BR)](GTS32-huskyCI(PT-BR).pdf) 
+* Vídeo da apresentação no [Youtube](https://youtu.be/MOZ0d3sPgSo?t=99)
+
+#### Segurança da Informação na graduação: Proposta de inclusão de disciplina optativa sobre Análise de Malware (UFRJ - 2016) 
   
-[PDF - (PT-BR)](disciplina-analise-malware(PT-BR).pdf) O objetivo desta pesquisa é discutir a necessidade e formulação de uma disciplina optativa sobre Análise de Malware no contexto de um Curso de Ciência da Computação no Brasil, tendo como estudo de caso o Departamento de Ciência da Computação da UFRJ. 
+Pesquisa que visa discutir a necessidade e formulação de uma disciplina optativa sobre Análise de Malware no contexto de um Curso de Ciência da Computação no Brasil, tendo como estudo de caso o Departamento de Ciência da Computação da UFRJ. 
 
-#### Segurança em Códigos QR 
+* TCC em [PDF (PT-BR)](disciplina-analise-malware(PT-BR).pdf) 
+
+#### Segurança em Códigos QR (BSides SP - 2012)
+
+Pesquisa que procura explicar com detalhes como funcionam os Códigos QR, mostrar até que ponto é seguro escaneá-los, exemplificar como alguns ataques podem ser feitos através de um estudo de caso e, por fim, demonstrar algumas boas práticas na utilização dos mesmos.
  
-[PDF - (PT-BR)](seguranca-codigos-qr(PT-BR).pdf) Artigo que procura explicar com detalhes como funcionam os Códigos QR, mostrar até que ponto é seguro escaneá-los, exemplificar como alguns ataques podem ser feitos através de um estudo de caso, e por fim demonstrar algumas boas práticas na utilização dos mesmos.
-
-## Presentations
-
-#### Segurança em Código QR (BSides SP - 2012)
-
-[PDF - (PT-BR)](BSides(SP)-seguranca-codigos-qr(PT-BR).pdf) Apresentação que procura explicar com detalhes como funcionam os Códigos QR, mostrar até que ponto é s## Presentations
+* Artigo em [PDF (PT-BR)](seguranca-codigos-qr(PT-BR).pdf) 
+* Slides da apresentação em [PDF (PT-BR)](BSides(SP)-seguranca-codigos-qr(PT-BR).pdf) 
 
 #### Conhecendo Segurança da Informação (GRIS-UFRJ - 2011)
 
-[PDF - (PT-BR)](GRIS(UFRJ)-conhecendo-seguranca-informacao(PT-BR).pdf) Apresentação feita na UFRJ para alunos, docentes e funcionários da universidade sobre conscientização de segurança.
+Campanha feita pelo GRIS-UFRJ dentro da universidade para alunos, docentes e funcionários sobre conscientização de segurança.
+
+* Slides da apresentação em [PDF (PT-BR)](GRIS(UFRJ)-conhecendo-seguranca-informacao(PT-BR).pdf) 
 
 #### Conhecendo o Kali Linux (UFRJ - 2011)
 
-[PDF - (PT-BR)](UFRJ-overview-kali-linux(PT-BR).pdf) Apresentação feita para a cadeira "Sistemas Operacionais II" durante minha graduação em Ciência da Computação pela UFRJ que procura descrever as características do Kali como um SO.eguro escaneá-los, exemplificar como alguns ataques podem ser feitos através de um estudo de caso e, por fim demonstrar algumas boas práticas na utilização dos mesmos.
+Pesquisa feita para a cadeira "Sistemas Operacionais II" durante minha graduação em Ciência da Computação pela UFRJ que procura descrever as características do Kali como um SO.eguro escaneá-los, exemplificar como alguns ataques podem ser feitos através de um estudo de caso e, por fim, demonstrar algumas boas práticas na utilização dos mesmos.
+
+* Slides da apresentação em [PDF (PT-BR)](UFRJ-overview-kali-linux(PT-BR).pdf) 
