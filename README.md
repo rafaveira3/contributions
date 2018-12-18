@@ -4,6 +4,7 @@
 
 Ferramenta open source que auxilia na identificação de vulnerabilidades de código e, consequentemente, na redução de falhas de segurança geradas a cada commit realizado. 
 
+* Repositório do projeto no [Github](https://github.com/globocom/huskyci)
 * Slides da apresentação em [PDF (PT-BR)](GTS32-huskyCI(PT-BR).pdf) 
 * Vídeo da apresentação no [Youtube](https://youtu.be/MOZ0d3sPgSo?t=99)
 
