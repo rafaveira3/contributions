@@ -29,6 +29,6 @@ Campanha feita pelo GRIS-UFRJ dentro da universidade para alunos, docentes e fun
 
 #### Conhecendo o Kali Linux (UFRJ - 2011)
 
-Pesquisa feita para a cadeira "Sistemas Operacionais II" durante minha graduação em Ciência da Computação pela UFRJ que procura descrever as características do Kali como um SO.eguro escaneá-los, exemplificar como alguns ataques podem ser feitos através de um estudo de caso e, por fim, demonstrar algumas boas práticas na utilização dos mesmos.
+Pesquisa feita para a cadeira "Sistemas Operacionais II" durante minha graduação em Ciência da Computação pela UFRJ que procura descrever as características do Kali como um SO.
 
 * Slides da apresentação em [PDF (PT-BR)](UFRJ-overview-kali-linux(PT-BR).pdf) 
