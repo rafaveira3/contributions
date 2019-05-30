@@ -4,7 +4,10 @@
 
 Talks da Globo.com onde procurei mostrar como se dá o processo de criação de um exploit em uma aplicação Windows vulnerável. O objetivo foi produzir um código estável para conseguir um "shell" na máquina da "vítima" que está executando o Free Float FTP Server 1.0. 
 
-* Vídeo da apresentação no [vimeo](https://vimeo.com/319004545/ed7785e811)
+* Vídeo da apresentação:
+[![Video](exploit-dev.png)](https://vimeo.com/319004545/ed7785e811)
+
+
 
 #### - huskyCI: Encontrando vulnerabilidades de código na Globo.com antes do deploy (GTS32 SP - 2018)
 
@@ -12,7 +15,8 @@ Ferramenta open source que auxilia na identificação de vulnerabilidades de có
 
 * Repositório do projeto no [Github](https://github.com/globocom/huskyci)
 * Slides da apresentação em [PDF (PT-BR)](GTS32-huskyCI(PT-BR).pdf) 
-* Vídeo da apresentação no [Youtube](https://youtu.be/MOZ0d3sPgSo?t=99)
+* Vídeo da apresentação:
+[![Video](huskyci.png)](https://www.youtube.com/watch?v=mqMGfjkCPFQ)
 
 #### - Segurança da Informação na graduação: Proposta de inclusão de disciplina optativa sobre Análise de Malware (UFRJ - 2016) 
   
