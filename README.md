@@ -10,7 +10,7 @@ These are some of my recent contribuition to the security community. 🙃
 | Ago 2019 | AppSec Village at DEFCON 27 | huskyCI Presentation | [Slides (EN-US)](DEFCON-27-APP-SEC-VILLAGE-Rafael-Santos-huskyCI-Finding-security-flaws-in-CI-before-deploying-them.pdf) |
 | Feb 2019 | Globo.com Talks 2019 | Introdução à Desenvolvimento de Exploits | [Video (PT-BR)](https://vimeo.com/319004545/ed7785e811) |
 | Jan 2019 | Github | secDevLabs: A laboratory for learning secure web development in a practical manner | [Repository (EN-US)](https://github.com/globocom/secDevLabs)
-| Dec 2018 | GTS32 SP - 2018 | huskyCI | [Slides (PT-BR)](GTS32-huskyCI(PT-BR).pdf) and [Vídeo (PT-BR)](https://www.youtube.com/watch?v=mqMGfjkCPFQ) |
+| Dec 2018 | GTS32 SP - 2018 | huskyCI Presentation | [Slides (PT-BR)](GTS32-huskyCI(PT-BR).pdf) and [Vídeo (PT-BR)](https://www.youtube.com/watch?v=mqMGfjkCPFQ) |
 | Set 2018 | Github | Exploits written for research purposes | [Repository (EN-US)](https://github.com/rafaveira3/exploits) |
 | Jun 2018 | Github | huskyCI: Performing security tests inside your CI | [Repository (EN-US)](https://github.com/globocom/huskyCI)
 | Oct 2017 | Blog Post | Exploit Development: Easy RM RMVB to DVD Burner 1.8.11 (SEH overflow example #1) | [Blog Post (EN-US)](https://medium.com/@rafaveira3/exploit-development-easy-rm-rmvb-to-dvd-burner-1-8-11-seh-overflow-example-1-4b5ac6de5adc) |
