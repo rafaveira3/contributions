@@ -1,6 +1,6 @@
-# Writing & Presentations 📚
+# Contributions 📚
 
-These are some of my recent contribuition to the security community. 🙃
+These are some of my recent contribuition to the community. 🙃
 
 | When | Where | Research | Resources |
 |:----:|:-----:|:--------:|:---------:|
