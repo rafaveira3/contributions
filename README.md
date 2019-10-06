@@ -1,6 +1,6 @@
 # Contributions 📚
 
-These are some of my recent contribuition to the community. 🙃
+These are some of my recent contribuitions to the community. 🙃
 
 | When | Where | Research | Resources |
 |:----:|:-----:|:--------:|:---------:|
