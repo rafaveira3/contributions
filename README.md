@@ -4,6 +4,7 @@ These are some of my recent contribuition to the community. 🙃
 
 | When | Where | Research | Resources |
 |:----:|:-----:|:--------:|:---------:|
+| Out 2019 | SECCIM UFRRJ | secDevLabs Presentation | [Slides (PT-BR)](secDevLabs-SECCIM(UFRRJ).pdf) |
 | Set 2019 | GopherCon BR 2019 | huskyCI Presentation | [Slides (PT-BR)](huskyCI-GopherCon-BR-2019.pdf) |
 | Set 2019 | Github | huskyCI-dashboard: Frontend to display data from huskyCI analyses | [Repository (EN-US)](https://github.com/globocom/huskyCI-dashboard) |
 | Set 2019 | Mind The Sec SP 2019 | huskyCI Presentation | [Slides (PT-BR)](huskyCI-Mind-The-Sec-SP-2019.pdf) |
