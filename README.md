@@ -1,9 +1,10 @@
 # Contributions 📚
 
-These are some of my recent contribuitions to the community. 🙃
+These are some of my recent contribuitions to the community: 
 
 | When | Where | Research | Resources |
 |:----:|:-----:|:--------:|:---------:|
+| Dec 2019 | Black Hat Europe 2019 | huskyCI Presentation | [Slides (EN-US)](huskyCI-BlackHat-Europe-2019.pdf) |
 | Out 2019 | SECCIM UFRRJ | secDevLabs Presentation | [Slides (PT-BR)](secDevLabs-SECCIM(UFRRJ).pdf) |
 | Set 2019 | GopherCon BR 2019 | huskyCI Presentation | [Slides (PT-BR)](huskyCI-GopherCon-BR-2019.pdf) |
 | Set 2019 | Github | huskyCI-dashboard: Frontend to display data from huskyCI analyses | [Repository (EN-US)](https://github.com/globocom/huskyCI-dashboard) |
