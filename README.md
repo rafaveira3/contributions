@@ -9,7 +9,7 @@ These are some of my recent contribuitions to the community:
 | Set 2019 | GopherCon BR 2019 | huskyCI Presentation | [Slides (PT-BR)](huskyCI-GopherCon-BR-2019.pdf) |
 | Set 2019 | Github | huskyCI-dashboard: Frontend to display data from huskyCI analyses | [Repository (EN-US)](https://github.com/globocom/huskyCI-dashboard) |
 | Set 2019 | Mind The Sec SP 2019 | huskyCI Presentation | [Slides (PT-BR)](huskyCI-Mind-The-Sec-SP-2019.pdf) |
-| Ago 2019 | AppSec Village at DEFCON 27 | huskyCI Presentation | [Slides (EN-US)](DEFCON-27-APP-SEC-VILLAGE-Rafael-Santos-huskyCI-Finding-security-flaws-in-CI-before-deploying-them.pdf) |
+| Ago 2019 | AppSec Village at DEFCON 27 | huskyCI Presentation | [Slides (EN-US)](DEFCON-27-APP-SEC-VILLAGE-Rafael-Santos-huskyCI-Finding-security-flaws-in-CI-before-deploying-them.pdf) and [Video (EN-US)](https://www.youtube.com/watch?v=4URlmEIQau4)|
 | Feb 2019 | Globo.com Talks 2019 | Introdução à Desenvolvimento de Exploits | [Video (PT-BR)](https://vimeo.com/319004545/ed7785e811) |
 | Jan 2019 | Github | secDevLabs: A laboratory for learning secure web development in a practical manner | [Repository (EN-US)](https://github.com/globocom/secDevLabs)
 | Dec 2018 | GTS32 SP - 2018 | huskyCI Presentation | [Slides (PT-BR)](GTS32-huskyCI(PT-BR).pdf) and [Vídeo (PT-BR)](https://www.youtube.com/watch?v=mqMGfjkCPFQ) |
